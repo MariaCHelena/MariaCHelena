@@ -1,12 +1,12 @@
 <div align="center">
-    <h1>Olá, eu sou Maria Helena 👋</h1>
+    <h1>HI, I'm Maria Helena 👋</h1>
     <p style="font-size: 1.1em">
-        Sou uma <b>desenvolvedora mobile</b> @ CI&T e tenho amplo conhecimento em engenharia de software e desenvolvimento fullstack. </p>
+        I'm a passionate <b>fullstack developer</b>, currently working @ CI&T. </p>
     <hr>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MariaCHelena&show_icons=true&theme=defaukt&text_color=fff&title_color=fff&rank_icon=github&bg_color=0.5,e96443,904e95&icon_color=fff&hide_border=true&locale=pt-br" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCHelena&size_weight=0.5&count_weight=0.5&layout=donut&text_color=fff&title_color=fff&bg_color=0.5,904e95,e96443&hide_border=true&locale=pt-br">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MariaCHelena&show_icons=true&theme=defaukt&text_color=fff&title_color=fff&rank_icon=github&bg_color=0.5,e96443,904e95&icon_color=fff&hide_border=true" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaCHelena&size_weight=0.5&count_weight=0.5&layout=donut&text_color=fff&title_color=fff&bg_color=0.5,904e95,e96443&hide_border=true">
 <hr>
-    <h3>Tecnologias que uso no meu dia a dia:</h3>
+    <h3>Technologies i'm interested in:</h3>
     <div>
         <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
